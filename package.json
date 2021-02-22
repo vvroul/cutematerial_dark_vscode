@@ -1,0 +1,33 @@
+{
+    "name": "cutematerial",
+    "displayName": "CuteMaterial Dark",
+    "description": "Just a dark theme with cute colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "publisher": "VrouliotisVasileios",
+    "author": {"name": "Vrouliotis Vasileios"},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "Cute",
+        "CuteMaterial",
+        "CuteMaterial Dark",
+        "Vrouliotis"
+    ],
+    "repository": {"type": "git", "url": "https://github.com/vvroul/cutematerial_dark_vscode"},
+    "contributes": {
+        "themes": [
+            {
+                "label": "CuteMaterial Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CuteMaterial Dark-color-theme.json"
+            }
+        ]
+    }
+}
