@@ -1,2 +1,3 @@
-# materialdark_vscode
-Material Dark Theme for VS Code
+# cutematerial_dark_vscode
+
+Cute Material Dark Theme for VS Code
