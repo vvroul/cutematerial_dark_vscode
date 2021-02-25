@@ -59,12 +59,22 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword, Storage Types",
 			"scope": [
 				"keyword",
+				"storage.type",
 			],
 			"settings": {
 				"foreground": "#ea9de8"
+			}
+		},
+		{
+			"name": "Arrow",
+			"scope": [
+				"storage.type.function.arrow.js"
+			],
+			"settings": {
+				"foreground": "#dcdcdc"
 			}
 		},
 		{
@@ -115,7 +125,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff8080"
+				"foreground": "#af7474"
 			}
 		},
 		{
@@ -160,7 +170,6 @@
 				"constant.escape",
 				"keyword.other.unit",
 				"keyword.other",
-				"storage.type",
 			],
 			"settings": {
 				"foreground": "#ffa000"
@@ -203,7 +212,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ff8080"
+				"foreground": "#af7474"
 			}
 		},
 		{
