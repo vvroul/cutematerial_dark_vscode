@@ -15,7 +15,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#37803a"
+				"foreground": "#2d3047"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"string.quoted.single.js",
 			],
 			"settings": {
-				"foreground": "#59A09C"
+				"foreground": "#5e8a79"
 			}
 		},
 		{
@@ -74,7 +74,7 @@
 				"storage.type.function.arrow.js"
 			],
 			"settings": {
-				"foreground": "#dcdcdc"
+				"foreground": "#EB8258"
 			}
 		},
 		{
@@ -91,17 +91,25 @@
 			"scope": [
 				"constant.other.color",
 				"meta.tag",
-				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#dcdcdc"
+			}
+		},
+		{
+			"name": "My Operators",
+			"scope": [
+				"punctuation.definition.tag",
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+			],
+			"settings": {
+				"foreground": "#a86181"
 			}
 		},
 		{
@@ -114,7 +122,7 @@
 				"variable.language.this.js"
 			],
 			"settings": {
-				"foreground": "#d0b765"
+				"foreground": "#f2a359"
 			}
 		},
 		{
@@ -125,7 +133,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#af7474"
+				"foreground": "#a86181"
 			}
 		},
 		{
@@ -172,7 +180,7 @@
 				"keyword.other",
 			],
 			"settings": {
-				"foreground": "#ffa000"
+				"foreground": "#C60F7B"
 			}
 		},
 		{
@@ -196,7 +204,7 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#59a09c"
+				"foreground": "#5e8a79"
 			}
 		},
 		{
@@ -212,7 +220,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#af7474"
+				"foreground": "#a86181"
 			}
 		},
 		{
@@ -235,7 +243,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#006D77"
 			}
 		},
 		{
@@ -285,7 +293,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#dcdcdc"
+				"foreground": "#006D77"
 			}
 		},
 		{
